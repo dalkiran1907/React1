@@ -1,0 +1,13 @@
+.stil{
+    background-color: aqua;
+    color: rgb(228, 114, 14);
+    margin: 15px auto ;
+    padding: 2rem;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    line-height: 250px;
+    font-size: 30px;
+    text-align: center
+}
+
